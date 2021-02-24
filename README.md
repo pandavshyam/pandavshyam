@@ -8,7 +8,7 @@
 
 <h3 align="center">Connect with me on</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/pandavshyam" target="blank">
+  <a href="https://www.linkedin.com/in/shyam-pandav" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"     alt="pandavshyam" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/pandavshyam" target="blank">
