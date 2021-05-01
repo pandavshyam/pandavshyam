@@ -25,7 +25,7 @@
 
 - 🌱 I’m currently learning **Ruby**
 
-- 💬 Ask me about **JavaScript, OOP**
+- 💬 Ask me about **JavaScript, OOP, ASP.NET MVC, ASP.NET Web API**
 
 - 📫 How to reach me **pandavshyam@gmail.com**
 
