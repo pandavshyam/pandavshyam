@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Block Based Learning System**
 
-- 🌱 I’m currently learning **.Net and [C#](https://github.com/pandavshyam/C-Sharp-Program)**
+- 🌱 I’m currently learning **Ruby**
 
 - 💬 Ask me about **JavaScript, OOP**
 
