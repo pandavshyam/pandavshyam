@@ -29,8 +29,6 @@
 
 - 📫 How to reach me **pandavshyam@gmail.com**
 
-- 📄 Know about my experiences **[Click Here](https://drive.google.com/file/d/10ZK6ZL1LMfWgEXwGK3rVPeYy058ep5WQ/view?usp=sharing)**
-
 ---
 
 ## Languages and Tools
