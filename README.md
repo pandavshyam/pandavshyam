@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Block Based Learning System**
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 💬 Ask me about **JavaScript, OOP, ASP.NET MVC, ASP.NET Web API**
 
