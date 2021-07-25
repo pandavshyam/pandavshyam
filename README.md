@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **Test Case Management**
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Ruby on Rails (Advanced Concepts)**
 
 - 💬 Ask me about **JavaScript, OOP, ASP.NET MVC, ASP.NET Web API**
 
