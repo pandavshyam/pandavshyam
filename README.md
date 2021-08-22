@@ -21,7 +21,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Test Case Management**
+- 🔭 I’m currently working on **Test-Spex**
 
 - 🌱 I’m currently learning **Ruby on Rails (Advanced Concepts)**
 
