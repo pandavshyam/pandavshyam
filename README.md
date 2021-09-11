@@ -21,11 +21,11 @@
 
 <br/>
 
-- 🔭 I’m currently working on **Test-Spex**
+- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **Ruby on Rails (Advanced Concepts)**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript, OOP, ASP.NET MVC, ASP.NET Web API**
+- 💬 Ask me about **JavaScript, OOP, Rails**
 
 - 📫 How to reach me **pandavshyam@gmail.com**
 
