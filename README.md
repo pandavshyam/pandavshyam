@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Shyam</h1>
 
-<h3 align="center">A Python (Programming Language) Programmer, Having Intermediate Knowledge of JavaScript, C++, OOP. Currently working on Block based Learning System. Persuing B.Tech from MIT Academy of Engineering</h3>
+<h3 align="center">A Python (Programming Language) Programmer, Having Intermediate Knowledge of JavaScript, C++, OOP. Currently working on Block based Learning System. Completed B.Tech from MIT Academy of Engineering</h3>
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/pandavshyam/pandavshyam"></a>
